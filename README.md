@@ -7,7 +7,7 @@ This project is a data exploration and visualisation of workplace-related mental
 ### 1. **Social Isolation by Work Arrangement**
 -  Remote workers had **higher social isolation scores** than hybrid or onsite workers.
 -  Includes a **legend** and **stacked bar chart** to visually support the analysis.
-  ![Staked bar chart showing social isolation](images/physicalhealthage.png)
+  ![Staked bar chart showing social isolation](https://github.com/maryam-ize/mental-health-workplace-pivots-analysis/blob/main/images/physical%20health%20age.png)
 ### 2. **Mental Health Conditions by Gender & Regions**
 -  ADHD was more common in females, PTSD in males, Anxiety in non-binary respondents.
 -  Visualized using a **clustered bar chart (percentage)**
@@ -16,7 +16,7 @@ This project is a data exploration and visualisation of workplace-related mental
 ### 3. **Physical Health Distribution by Ages**
 -  Workers aged **40-50** reported the **highest** percentage of physical health issues.
 -  Conditional formatting highlighted the top age group.
-  ![Bar chart showing physical health issues across age groups](images/physical health age.png)
+  ![Bar chart showing physical health issues across age groups](https://github.com/maryam-ize/mental-health-workplace-pivots-analysis/blob/main/images/physical%20health%20age.png)
 ### 4. **Physical Health by Gender and Work Arrangement**
 -  Gender breakdown under onsite, hybrid, and remote categories showing how physical health issues vary by both factors.
 -  Highest values highlighted for easier visual interpretation.
