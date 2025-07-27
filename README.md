@@ -20,7 +20,8 @@ This project is a data exploration and visualisation of workplace-related mental
 ### 4. **Physical Health by Gender and Work Arrangement**
 -  Gender breakdown under onsite, hybrid, and remote categories showing how physical health issues vary by both factors.
 -  Highest values highlighted for easier visual interpretation.
-  ![Line Chart showing physival health issues across gender and work arrrangements](images/physical health gender.png)
+  ![Line Chart showing physival health issues across gender and work arrrangements](https://github.com/maryam-ize/mental-health-workplace-pivots-analysis/blob/main/images/physical%20health%20gender.png)
+
 ## Files Included:
 -  'Workplace_Health_Pivot_Analysis.xlsx' - The full Excel workbook with all pivot tables and charts
 
